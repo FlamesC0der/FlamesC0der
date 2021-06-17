@@ -2,9 +2,35 @@
 
 [![wakatime](https://wakatime.com/badge/user/018bd4cf-9224-4729-b4f3-31fc6a93ca34.svg)](https://wakatime.com/@flamescoder)
 
-- 👀 Interested in chatbots, websites...
-- 💻 Learning Python, Javascript(Vue.js, React)
-- 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank"><img src="https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white"/></a> <a href="https://discord.gg/3wt8QRndjm" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/></a>
+- ❤️ Frontend Developer
+- 語 Code with Js, Ts, React, Vue, Nuxt, Python, Lua etc.
+
+<details>
+<summary>Stack</summary>
+
+- <img src="https://skillicons.dev/icons?i=nodejs" height="20px" align="center"> Frontend
+  
+  - <img src="https://skillicons.dev/icons?i=javascript" height="20px" align="center"> Javascript
+  - <img src="https://skillicons.dev/icons?i=typescript" height="20px" align="center"> TypeScript
+  - <img src="https://skillicons.dev/icons?i=react" height="20px" align="center"> React
+  - <img src="https://skillicons.dev/icons?i=vue" height="20px" align="center"> Vue
+    
+    - <img src="https://skillicons.dev/icons?i=nuxt" height="20px" align="center"> Nuxt
+  - <img src="https://skillicons.dev/icons?i=sass" height="20px" align="center"> Sass
+    
+- <img src="https://skillicons.dev/icons?i=python" height="20px" align="center"> Beckend
+  
+  - <img src="https://skillicons.dev/icons?i=python" height="20px" align="center"> Python
+  - <img src="https://skillicons.dev/icons?i=fastapi" height="20px" align="center"> Fastapi
+  - <img src="https://skillicons.dev/icons?i=flask" height="20px" align="center"> Flask
+  - <img src="https://skillicons.dev/icons?i=pytorch" height="20px" align="center"> Pytorch
+
+- <img src="https://skillicons.dev/icons?i=git" height="20px" align="center"> Misc
+  
+  - <img src="https://skillicons.dev/icons?i=git" height="20px" align="center"> Git
+  - <img src="https://skillicons.dev/icons?i=figma" height="20px" align="center"> Figma
+  - <img src="https://skillicons.dev/icons?i=postgres" height="20px" align="center"> Postgres
+</details>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
