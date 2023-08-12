@@ -3,8 +3,6 @@
   <h1>Hi 👋, I'm Alexey</h1>
 </div>
 
-<img align="right" src="https://github.com/FlamesC0der/FlamesC0der/assets/73310806/06eedf52-4c83-42ea-87b6-53e615c09d28" height="180">
-
 ### ℹ About me
 
 - 👀 Interested in chatbots, websites...
