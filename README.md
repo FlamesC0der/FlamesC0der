@@ -4,13 +4,15 @@
 </div>
 
 ---
-<img align="right" src="https://github.com/FlamesC0der/FlamesC0der/assets/73310806/2e323f55-4d72-4294-95e0-d287bf00aeae" height="130">
+<img align="right" src="https://github.com/FlamesC0der/FlamesC0der/assets/73310806/2e323f55-4d72-4294-95e0-d287bf00aeae" height="180">
 
 ### ℹ About me
 
 - 👀 Interested in chatbots, websites...
+- ⚡️ In my free time, I solve problems with my bots
 - 💻 Learning Python, Javascript, Lua
 - 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank">Telegram</a>
+- 🌎 <a href="https://flamescoderapi--flamesc0der.repl.co/" target="_blank">Website</a>
 
 ---
 
