@@ -1,4 +1,4 @@
-<div id="top" align="center">
+<div align="center">
   <img src="https://github.com/FlamesC0der/FlamesC0der/assets/73310806/6cee6bd7-b917-42f9-984b-f62c4c8c454f" width="100"/>
   <h1>Hi 👋, I'm Alexey</h1>
 </div>
@@ -11,13 +11,13 @@
 - 👀 Interested in chatbots, websites...
 - ⚡️ In my free time, I solve problems with my bots
 - 💻 Learning Python, Javascript, Lua
-- 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank">Telegram</a>
+- 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white"/></a>
 - 🌎 <a href="https://flamescoderapi--flamesc0der.repl.co/" target="_blank">Website</a>
 
 ---
 
 ### ⚙️ Languages and Tools
-<div class="tools">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
@@ -32,6 +32,6 @@
 
 ---
 
-### Satats
+### ⭐️ Satats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlamesC0der&show_icons=true&count_private=true&theme=codeSTACKr&bg_color=0d1117&border_color=30363d)
