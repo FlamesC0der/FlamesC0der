@@ -33,5 +33,7 @@
 ---
 
 ### ⭐️ Satats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlamesC0der&show_icons=true&count_private=true&theme=codeSTACKr&bg_color=0d1117&border_color=30363d)
+<div>
+  <img height="235" src="https://github-readme-stats.vercel.app/api?username=FlamesC0der&show_icons=true&count_private=true&theme=codeSTACKr&bg_color=0d1117&border_color=30363d"/>
+  <img align="" height="235" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesC0der&layout=compact&theme=codeSTACKr&border_color=30363d&bg_color=0d1117"/>
+</div>
