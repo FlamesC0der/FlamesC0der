@@ -11,7 +11,7 @@
 - 👀 Interested in chatbots, websites...
 - ⚡️ In my free time, I solve problems with my bots
 - 💻 Learning Python, Javascript, Lua
-- 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white"/></a>
+- 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white"/></a> <a href="https://discord.gg/3wt8QRndjm" target="_blank"><img src="https://img.shields.io/badge/discord-purple?logo=discord&logoColor=white"/></a>
 - 🌎 <a href="https://flamescoderapi--flamesc0der.repl.co/" target="_blank">Website</a>
 
 ---
