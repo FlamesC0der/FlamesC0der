@@ -11,7 +11,7 @@
 - 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white"/></a> <a href="https://discord.gg/3wt8QRndjm" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/></a>
 - 🌎 My Website: <a href="https://flamescoderapi--flamesc0der.repl.co/" target="_blank"><img src="https://img.shields.io/badge/Website-orange?logo=googlechrome&logoColor=white"/></a>
 
----
+<h2></h2>
 
 ### ⚙️ Languages and Tools
 <div>
@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 </div>
 
----
+<h2></h2>
 
 ### ⭐️ Satats
 <div align="center">
