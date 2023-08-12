@@ -1,19 +1,17 @@
-<div align="center">
-  <img src="https://github.com/FlamesC0der/FlamesC0der/assets/73310806/6cee6bd7-b917-42f9-984b-f62c4c8c454f" width="100"/>
-  <h1>Hi 👋, I'm Alexey</h1>
+<div>
+  <h1>Hey <img height="50" src="https://github.com/FlamesC0der/FlamesC0der/assets/73310806/888940ea-4c25-4a90-b93a-44d908221b6b"/> What's up?</h1>
 </div>
 
-### ℹ About me
+<h2>About me</h2>
 
 - 👀 Interested in chatbots, websites...
 - ⚡️ In my free time, I solve problems with my bots
 - 💻 Learning Python, Javascript, Lua
-- 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white"/></a> <a href="https://discord.gg/3wt8QRndjm" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/></a>
+- 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank"><img src="https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white"/></a> <a href="https://discord.gg/3wt8QRndjm" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/></a>
 - 🌎 My Website: <a href="https://flamescoderapi--flamesc0der.repl.co/" target="_blank"><img src="https://img.shields.io/badge/Website-orange?logo=googlechrome&logoColor=white"/></a>
 
-<h2></h2>
+<h2>I code with</h2>
 
-### ⚙️ Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -27,9 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 </div>
 
-<h2></h2>
+<h2>Stats</h2>
 
-### ⭐️ Stats
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=FlamesC0der&show_icons=true&count_private=true&theme=codeSTACKr&bg_color=0d1117&border_color=30363d"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesC0der&layout=compact&theme=codeSTACKr&border_color=30363d&bg_color=0d1117"/>
