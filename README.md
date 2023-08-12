@@ -1,22 +1,16 @@
 <div id="top" align="center">
   <img src="https://github.com/FlamesC0der/FlamesC0der/assets/73310806/6cee6bd7-b917-42f9-984b-f62c4c8c454f" width="100"/>
-  <h1>Hi i'm Alexey</h1>
+  <h1>Hi 👋, I'm Alexey</h1>
 </div>
 
 ---
-https://github.com/FlamesC0der/FlamesC0der/assets/73310806/2e323f55-4d72-4294-95e0-d287bf00aeae
+<img align="right" src="https://github.com/FlamesC0der/FlamesC0der/assets/73310806/2e323f55-4d72-4294-95e0-d287bf00aeae" height="130">
 
+### ℹ About me
 
-### About me
-
-<div>
-  <ul>
-    <li>I'm just a beginer developer</li>
-    <li>Learning Python, Javascript, Lua</li>
-    <li>Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank">Telegram</a></li>
-  </ul>
-  <img align="right" src="https://github.com/FlamesC0der/FlamesC0der/assets/73310806/2e323f55-4d72-4294-95e0-d287bf00aeae">
-</div>
+- 👀 Interested in chatbots, websites...
+- 💻 Learning Python, Javascript, Lua
+- 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank">Telegram</a>
 
 ---
 
@@ -33,3 +27,9 @@ https://github.com/FlamesC0der/FlamesC0der/assets/73310806/2e323f55-4d72-4294-95
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### Satats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlamesC0der&show_icons=true&count_private=true&theme=codeSTACKr&bg_color=0d1117&border_color=30363d)
