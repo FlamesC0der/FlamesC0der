@@ -1,5 +1,5 @@
 <h1>Hey <img height="50" src="https://github.com/FlamesC0der/FlamesC0der/assets/73310806/888940ea-4c25-4a90-b93a-44d908221b6b"/> What's up?</h1>
-My name is Alexey and i'm python/javaScript developer
+My name is Alexey and Frontend developer
 
 <h2>About me</h2>
 
