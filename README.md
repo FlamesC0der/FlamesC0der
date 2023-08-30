@@ -26,8 +26,8 @@ My name is Alexey and Frontend developer
 <h2>Stats</h2>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FlamesC0der&show_icons=true&count_private=true&theme=codeSTACKr&bg_color=0d1117&border_color=30363d"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamesC0der&layout=compact&theme=codeSTACKr&border_color=30363d&bg_color=0d1117"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FlamesC0der&show_icons=true&count_private=true&theme=codeSTACKr&bg_color=0d1117&border_color=30363d"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app//api/top-langs/?username=FlamesC0der&layout=compact&theme=codeSTACKr&border_color=30363d&bg_color=0d1117"/>
 </div>
 
 <div align="center">
