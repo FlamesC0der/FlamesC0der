@@ -6,7 +6,7 @@
 - ❤️ Code with Js, Ts, React, Vue, Nuxt, Python, Lua etc..
 - ❤️ Love to learn new things
 
-                    
+
 <details>
 <summary>🖥️ Stack</summary>
 
