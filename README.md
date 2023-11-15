@@ -8,7 +8,6 @@
 - 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank"><img src="https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white"/></a> <a href="https://discord.gg/3wt8QRndjm" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/></a>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <h2>Stats</h2>
