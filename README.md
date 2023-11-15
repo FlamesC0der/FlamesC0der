@@ -1,5 +1,7 @@
 # Hello there
 
+[![wakatime](https://wakatime.com/badge/user/018bd4cf-9224-4729-b4f3-31fc6a93ca34.svg)](https://wakatime.com/@flamescoder)
+
 - 👀 Interested in chatbots, websites...
 - ⚡️ In my free time, I solve problems with my bots
 - 💻 Learning Python, Javascript
