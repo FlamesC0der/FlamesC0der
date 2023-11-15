@@ -1,7 +1,5 @@
 # Hello there
 
-<h2>About me</h2>
-
 - 👀 Interested in chatbots, websites...
 - ⚡️ In my free time, I solve problems with my bots
 - 💻 Learning Python, Javascript
