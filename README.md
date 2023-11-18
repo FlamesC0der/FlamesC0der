@@ -8,6 +8,25 @@
 - 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank"><img src="https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white"/></a> <a href="https://discord.gg/3wt8QRndjm" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/></a>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+HTML                     1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   31.19 % 
+Python                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+CSS                      44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Vue.js                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 19 mins       █████████████████░░░░░░░░   67.26 % 
+PyCharm                  1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.74 % 
+
+💻 Operating System: 
+Mac                      3 hrs 27 mins       █████████████████████████   100.00 % 
+```
+
+
 <!--END_SECTION:waka-->
 
 <h2>Stats</h2>
