@@ -1,4 +1,4 @@
-# Hello there
+# こんにちは
 
 [![wakatime](https://wakatime.com/badge/user/018bd4cf-9224-4729-b4f3-31fc6a93ca34.svg)](https://wakatime.com/@flamescoder)
 
