@@ -4,7 +4,7 @@
 
 - 👀 Interested in chatbots, websites...
 - 💻 Learning Python, Javascript(Vue.js, React)
-- 📫 Contacts: <a target="_blank" href="https://t.me/FlameCoder0_0" target="_blank"><img src="https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white"/></a> <a href="https://discord.gg/3wt8QRndjm" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/></a>
+- 📫 Contacts: <a href="https://t.me/FlameCoder0_0" target="_blank"><img src="https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white"/></a> <a href="https://discord.gg/3wt8QRndjm" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/></a>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
