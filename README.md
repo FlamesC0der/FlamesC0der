@@ -17,7 +17,7 @@
   - <img src="https://skillicons.dev/icons?i=nuxt" height="20px" align="center"> Nuxt (v3)
   - <img src="https://skillicons.dev/icons?i=sass" height="20px" align="center"> Sass
     
-- <img src="https://skillicons.dev/icons?i=python" height="20px" align="center"> Beckend
+- <img src="https://skillicons.dev/icons?i=python" height="20px" align="center"> Backend
   
   - <img src="https://skillicons.dev/icons?i=python" height="20px" align="center"> Python
   - <img src="https://skillicons.dev/icons?i=fastapi" height="20px" align="center"> Fastapi
