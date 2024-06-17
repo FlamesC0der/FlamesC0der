@@ -6,16 +6,15 @@
 - ❤️ Code with Js, Ts, React, Vue, Nuxt, Python, Lua etc.
 
 <details>
-<summary>Stack</summary>
+<summary>🖥️ Stack</summary>
 
 - <img src="https://skillicons.dev/icons?i=nodejs" height="20px" align="center"> Frontend
   
   - <img src="https://skillicons.dev/icons?i=javascript" height="20px" align="center"> Javascript
   - <img src="https://skillicons.dev/icons?i=typescript" height="20px" align="center"> TypeScript
   - <img src="https://skillicons.dev/icons?i=react" height="20px" align="center"> React
-  - <img src="https://skillicons.dev/icons?i=vue" height="20px" align="center"> Vue
-    
-    - <img src="https://skillicons.dev/icons?i=nuxt" height="20px" align="center"> Nuxt
+  - <img src="https://skillicons.dev/icons?i=vue" height="20px" align="center"> Vue (v3)
+  - <img src="https://skillicons.dev/icons?i=nuxt" height="20px" align="center"> Nuxt (v3)
   - <img src="https://skillicons.dev/icons?i=sass" height="20px" align="center"> Sass
     
 - <img src="https://skillicons.dev/icons?i=python" height="20px" align="center"> Beckend
@@ -31,6 +30,9 @@
   - <img src="https://skillicons.dev/icons?i=figma" height="20px" align="center"> Figma
   - <img src="https://skillicons.dev/icons?i=postgres" height="20px" align="center"> Postgres
 </details>
+
+<details open>
+<summary>✨ Stats</summary>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -51,8 +53,8 @@ PyCharm                  8 mins              ░░░░░░░░░░░�
 Mac                      24 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
-
 <!--END_SECTION:waka-->
+</details>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=FlamesC0der&style=flat-square&color=red"/>
