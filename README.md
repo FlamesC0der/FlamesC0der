@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/018bd4cf-9224-4729-b4f3-31fc6a93ca34.svg)](https://wakatime.com/@flamescoder)
 
 - ❤️ Frontend Developer
-- 語 Code with Js, Ts, React, Vue, Nuxt, Python, Lua etc.
+- ❤️ Code with Js, Ts, React, Vue, Nuxt, Python, Lua etc.
 
 <details>
 <summary>Stack</summary>
