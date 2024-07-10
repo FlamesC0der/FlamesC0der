@@ -1,9 +1,9 @@
-# こんにちは
+# こんにちは！
 
 [![wakatime](https://wakatime.com/badge/user/018bd4cf-9224-4729-b4f3-31fc6a93ca34.svg)](https://wakatime.com/@flamescoder)
 
 <div align="center">
-  <img width=100% src="https://github.com/FlamesC0der/FlamesC0der/assets/73310806/486800c0-2023-4202-8931-919522bc131a" align="center">
+  <img src="assets/kawaiiimg.gif" width=100% align="center">
 </div>
 
 - ❤️ Frontend Developer
