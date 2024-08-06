@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="assets/kawaii.gif" alt="" width=100% align="center">
+  <img src="assets/kawaii.jpeg" alt="" width=100% align="center">
 </div>
 
 - ❤️ Frontend Developer
