@@ -2,11 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/018bd4cf-9224-4729-b4f3-31fc6a93ca34.svg)](https://wakatime.com/@flamescoder)
 
-
-<div align="center" style="max-width: 50vw; overflow: hidden">
-  <img src="assets/kawaii.jpeg" alt="" width=100% align="center">
-</div>
-
 - ❤️ Frontend Developer
 - ❤️ Code with Js, Ts, React, Vue, Nuxt, Python, Lua etc..
 - ❤️ Love to learn new things
