@@ -2,7 +2,7 @@
 <h3 align="center">Привет, меня зовут Алексей</h3>
 <br>
 
-### ✨ Bio
+## ✨ Bio
 
 - Коммерческий опыт: null 
 - Опыт разработки: 2 года
@@ -13,7 +13,7 @@
 - <img src="assets/telegram.png" width="12"> <a href="https://t.me/flamescoder">Телеграм</a>
 - <img src="assets/website.png" width="12"> <a href="https://flamescoder.ru">Сайт</a>
 
-### ✨ Tech Stack <span id="stack"></span>
+## ✨ Tech Stack <span id="stack"></span>
 
 - Frontend
   - Vue (v3) - basic
@@ -37,14 +37,14 @@
     - Flask
     - Pytorch
 
-### ✨ Projects <span id="projects"></span>
+## ✨ Projects <span id="projects"></span>
 
 - Участие в разработке:
   - [Интернет-магазин](https://github.com/LehaRybkoha/wood-house) (React v3)
   - [Проект на React 3 (ЛЦТ)](https://github.com/Foxxxxxy/lct-24-starcrack) (Nuxt v3)
   - [Свой вебсайт](https://flamescoder.ru) (React v3)
 
-### ✨ Stats
+## ✨ Stats
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
