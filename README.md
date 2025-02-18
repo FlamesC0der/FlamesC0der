@@ -1,40 +1,50 @@
-# こんにちは！
+<br>
+<h3 align="center">Привет, меня зовут Алексей</h3>
+<br>
 
-[![wakatime](https://wakatime.com/badge/user/018bd4cf-9224-4729-b4f3-31fc6a93ca34.svg)](https://wakatime.com/@flamescoder)
+### ✨ Bio
 
-- ❤️ Frontend Developer
-- ❤️ Code with Js, Ts, React, Vue, Nuxt, Python, Lua etc..
-- ❤️ Love to learn new things
+- Коммерческий опыт: null 
+- Опыт разработки: 2 года
+- Junior Frontend dev
 
+#### Контакты: 
 
-<details>
-<summary>🖥️ Stack</summary>
+- <img src="assets/telegram.png" width="12"> <a href="https://t.me/flamescoder">Телеграм</a>
+- <img src="assets/website.png" width="12"> <a href="https://flamescoder.ru">Сайт</a>
 
-- <img src="https://skillicons.dev/icons?i=nodejs" alt="" height="20px" align="center"> Frontend
-  
-  - <img src="https://skillicons.dev/icons?i=javascript" alt="" height="20px" align="center"> Javascript
-  - <img src="https://skillicons.dev/icons?i=typescript" alt="" height="20px" align="center"> TypeScript
-  - <img src="https://skillicons.dev/icons?i=react" alt="" height="20px" align="center"> React
-  - <img src="https://skillicons.dev/icons?i=vue" alt="" height="20px" align="center"> Vue (v3)
-  - <img src="https://skillicons.dev/icons?i=nuxt" alt="" height="20px" align="center"> Nuxt (v3)
-  - <img src="https://skillicons.dev/icons?i=sass" alt="" height="20px" align="center"> Sass
-    
-- <img src="https://skillicons.dev/icons?i=python" alt="" height="20px" align="center"> Backend
-  
-  - <img src="https://skillicons.dev/icons?i=python" alt="" height="20px" align="center"> Python
-  - <img src="https://skillicons.dev/icons?i=fastapi" alt="" height="20px" align="center"> Fastapi
-  - <img src="https://skillicons.dev/icons?i=flask" alt="" height="20px" align="center"> Flask
-  - <img src="https://skillicons.dev/icons?i=pytorch" alt="" height="20px" align="center"> Pytorch
+### ✨ Tech Stack <span id="stack"></span>
 
-- <img src="https://skillicons.dev/icons?i=git" alt="" height="20px" align="center"> Misc
-  
-  - <img src="https://skillicons.dev/icons?i=git" alt="" height="20px" align="center"> Git
-  - <img src="https://skillicons.dev/icons?i=figma" alt="" height="20px" align="center"> Figma
-  - <img src="https://skillicons.dev/icons?i=postgres" alt="" height="20px" align="center"> Postgres
-</details>
+- Frontend
+  - Vue (v3) - basic
+    - vue-router
+    - vue-i18n
+  - React - intermediate
+    - react-router-dom
+    - @gravity-ui/uikit
+    - @tanstack/react-store
+    - react-final-form
+  - Nuxt (v3) - basic
+  - Typescript - intermediate
+  - Others
+    - sass
+    - html/css
+    - Rest Api
+    - Git
+- Backend
+  - Python - advanced
+    - Fastapi
+    - Flask
+    - Pytorch
 
-<details open>
-<summary>✨ Stats</summary>
+### ✨ Projects <span id="projects"></span>
+
+- Участие в разработке:
+  - [Интернет-магазин](https://github.com/LehaRybkoha/wood-house) (React v3)
+  - [Проект на React 3 (ЛЦТ)](https://github.com/Foxxxxxy/lct-24-starcrack) (Nuxt v3)
+  - [Свой вебсайт](https://flamescoder.ru) (React v3)
+
+### ✨ Stats
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -57,8 +67,9 @@ Mac                      12 hrs 8 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
-</details>
 
 <div align="center">
+
+  [![wakatime](https://wakatime.com/badge/user/018bd4cf-9224-4729-b4f3-31fc6a93ca34.svg)](https://wakatime.com/@flamescoder)    
   <img src="https://komarev.com/ghpvc/?username=FlamesC0der&style=flat-square&color=red" alt="" />
 </div>
