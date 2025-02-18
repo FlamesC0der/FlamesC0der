@@ -27,8 +27,8 @@
   - Nuxt (v3) - basic
   - Typescript - intermediate
   - Others
-    - sass
-    - html/css
+    - Sass
+    - Html/css
     - Rest Api
     - Git
 - Backend
