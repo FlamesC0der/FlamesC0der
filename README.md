@@ -10,8 +10,8 @@
 
 #### Контакты: 
 
-- <img src="assets/telegram.png" width="12"> <a href="https://t.me/flamescoder">Телеграм</a>
-- <img src="assets/website.png" width="12"> <a href="https://flamescoder.ru">Сайт</a>
+- <img src="assets/telegram.png" width="12"> <a href="https://t.me/flamescoder" target="_blank">Телеграм</a>
+- <img src="assets/website.png" width="12"> <a href="https://flamescoder.ru" target="_blank">Сайт</a>
 
 ## ✨ Tech Stack <span id="stack"></span>
 
