@@ -42,7 +42,7 @@
 - Участие в разработке:
   - [Интернет-магазин](https://github.com/LehaRybkoha/wood-house) (React v3)
   - [Проект на React 3 (ЛЦТ)](https://github.com/Foxxxxxy/lct-24-starcrack) (Nuxt v3)
-  - [Свой вебсайт](https://flamescoder.ru) (React v3)
+  - [Вебсайт-визитка](https://flamescoder.ru) (React v3)
 
 ## ✨ Stats
 
