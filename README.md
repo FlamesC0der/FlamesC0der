@@ -51,13 +51,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 2 mins        ████████████████████░░░░░   81.63 % 
+SCSS                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
