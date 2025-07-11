@@ -23,14 +23,22 @@
     - react-router-dom
     - @gravity-ui/uikit
     - @tanstack/react-store
+    - @reduxjs/toolkit
     - react-final-form
+    - react-top-loading-bar
+    - react-cookie
+    - react-redux
+    - react-hot-toast
   - Nuxt (v3) - basic
   - Typescript - intermediate
   - Others
     - Sass
+    - Scss
     - Html/css
     - Rest Api
     - Git
+    - Doker
+    - Docker-compose
 - Backend
   - Python - advanced
     - Fastapi
