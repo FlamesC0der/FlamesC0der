@@ -23,6 +23,7 @@
     - react-router-dom
     - @gravity-ui/uikit
     - @tanstack/react-store
+    - @tanstack/react-query
     - @reduxjs/toolkit
     - react-final-form
     - react-top-loading-bar
@@ -48,9 +49,11 @@
 ## ✨ Projects <span id="projects"></span>
 
 - Участие в разработке:
-  - [Интернет-магазин](https://github.com/LehaRybkoha/wood-house) (React v3)
+  - [Интернет-магазин](https://github.com/LehaRybkoha/wood-house) (React)
   - [Проект на React 3 (ЛЦТ)](https://github.com/Foxxxxxy/lct-24-starcrack) (Nuxt v3)
-  - [Вебсайт-визитка](https://flamescoder.ru) (React v3)
+  - [Вебсайт-визитка](https://flamescoder.ru) (React)
+- Разработка с нуля + длительная поддержка:
+  - CRM система (React + Fastapi) (soon!)
 
 ## ✨ Stats
 
