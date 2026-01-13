@@ -62,14 +62,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 32 mins        ███████████████████████░░   91.10 % 
-textmate                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 41 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
