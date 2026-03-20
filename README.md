@@ -62,18 +62,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   23 hrs 58 mins      ████████████████████░░░░░   78.00 % 
-protobuf                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Protocol Buffer          1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-textmate                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Makefile                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Python                   28 hrs 10 mins      █████████████████████░░░░   83.71 % 
+Protocol Buffer          1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+protobuf                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+textmate                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Makefile                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-PyCharm                  29 hrs 39 mins      ████████████████████████░   96.49 % 
-VS Code                  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+PyCharm                  32 hrs 44 mins      ████████████████████████░   97.27 % 
+VS Code                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 💻 Operating System: 
-Mac                      30 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
