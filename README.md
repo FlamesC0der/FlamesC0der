@@ -62,18 +62,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   35 hrs 42 mins      ████████████████████████░   95.61 % 
-textmate                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Protocol Buffer          19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Env File                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Python                   35 hrs 11 mins      ████████████████████████░   95.55 % 
+textmate                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Protocol Buffer          19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Env File                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-PyCharm                  37 hrs 14 mins      █████████████████████████   99.70 % 
+PyCharm                  36 hrs 43 mins      █████████████████████████   99.70 % 
 VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Mac                      37 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
