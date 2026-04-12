@@ -11,7 +11,6 @@
 #### Контакты: 
 
 - <img src="assets/telegram.png" width="12"> <a href="https://t.me/flamescoder">Телеграм</a>
-- <img src="assets/website.png" width="12"> <a href="https://flamescoder.ru">Сайт</a>
 
 ## ✨ Tech Stack <span id="stack"></span>
 
@@ -24,12 +23,15 @@
     - @gravity-ui/uikit
     - @tanstack/react-store
     - @tanstack/react-query
+    - @tanstack/react-table
     - @reduxjs/toolkit
     - react-final-form
     - react-top-loading-bar
     - react-cookie
     - react-redux
     - react-hot-toast
+    - react-hook-form
+    - tailwindcss
   - Nuxt (v3) - basic
   - Typescript - intermediate
   - Others
@@ -40,9 +42,13 @@
     - Git
     - Doker
     - Docker-compose
+  - Ui-kits
+    - shadcn
+    - Radix UI
 - Backend
   - Python - advanced
     - Fastapi
+    - Posgres
     - Flask
     - Pytorch
 
