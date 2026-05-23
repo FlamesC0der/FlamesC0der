@@ -64,24 +64,6 @@
 ## ✨ Stats
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               12 hrs 29 mins      ██████████████████████░░░   86.39 % 
-Python                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Requirements.txt         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 34 mins      ██████████████████████░░░   86.97 % 
-PyCharm                  1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-
-💻 Operating System: 
-Mac                      14 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
