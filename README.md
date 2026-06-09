@@ -4,8 +4,8 @@
 
 ## ✨ Bio
 
-- Коммерческий опыт: null 
-- Опыт разработки: 2 года
+- Коммерческий опыт: 1 год 
+- Опыт разработки: 3 года
 - Junior Frontend dev
 
 #### Контакты: 
@@ -31,7 +31,7 @@
     - react-redux
     - react-hot-toast
     - react-hook-form
-    - tailwindcss
+  - Next.js - basic
   - Nuxt (v3) - basic
   - Typescript - intermediate
   - Others
@@ -42,6 +42,7 @@
     - Git
     - Doker
     - Docker-compose
+    - tailwindcss
   - Ui-kits
     - shadcn
     - Radix UI
@@ -56,9 +57,9 @@
 
 - Участие в разработке:
   - [Интернет-магазин](https://github.com/LehaRybkoha/wood-house) (React)
-  - [Проект на React 3 (ЛЦТ)](https://github.com/Foxxxxxy/lct-24-starcrack) (Nuxt v3)
-  - [Вебсайт-визитка](https://flamescoder.ru) (React)
+  - [Проект на React 3 (хакатон Лидеры Цифровой Трансформации)](https://github.com/Foxxxxxy/lct-24-starcrack) (React)
 - Разработка с нуля + длительная поддержка:
+  - [Лендинг](https://ayerus.vercel.app/) (Next)
   - CRM система (React + Fastapi) (soon!)
 
 ## ✨ Stats
