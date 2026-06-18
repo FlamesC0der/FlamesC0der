@@ -69,14 +69,13 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 min               ██████████████████░░░░░░░   73.71 % 
-TypeScript               0 secs              ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+TypeScript               0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
