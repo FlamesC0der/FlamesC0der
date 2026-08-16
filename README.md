@@ -71,17 +71,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               30 mins             ███████████████░░░░░░░░░░   60.19 % 
-JSON                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Git Config               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+TypeScript               19 mins             ████████████░░░░░░░░░░░░░   49.06 % 
+JSON                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Git Config               8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+Mac                      39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
