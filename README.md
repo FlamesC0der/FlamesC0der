@@ -71,13 +71,13 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 min               █████████████████████████   100.00 % 
+TypeScript               4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
