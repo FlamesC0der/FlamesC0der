@@ -71,13 +71,15 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 mins              █████████████████████████   100.00 % 
+Python                   3 hrs 45 mins       ████████████████████████░   97.08 % 
+TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+Mac                      3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
