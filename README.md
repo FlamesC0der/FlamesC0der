@@ -71,14 +71,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 46 mins        ███████████████████░░░░░░   75.46 % 
-C++                      34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+Python                   1 hr 46 mins        █████████████████░░░░░░░░   67.82 % 
+C++                      50 mins             ████████░░░░░░░░░░░░░░░░░   32.18 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
