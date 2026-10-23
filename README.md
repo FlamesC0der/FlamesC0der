@@ -65,27 +65,45 @@
 ## ✨ Stats
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 27 mins        ██████████████████████░░░   89.87 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+C++                      3 hrs 20 mins       █████████████████████░░░░   85.24 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 37 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 17 mins (7.37%)
+
+✍️ 1,975 lines written by AI, 421 lines written by hand (82.43% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 2 AI Prompts
+
+Vscode                   1,989 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 82.43% of written lines came from AI
+📝 Concise Prompter — average 229 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 20.18% of changed lines were hand-edited
 ```
 
 
