@@ -65,6 +65,25 @@
 ## ✨ Stats
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C++                      5 hrs 53 mins       ██████████████████░░░░░░░   70.31 % 
+TypeScript               50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 48 mins       ████████████████████░░░░░   81.31 % 
+Claude Code              1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+
+💻 Operating System: 
+Mac                      8 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
+
 <!--END_SECTION:waka-->
 
 <div align="center">
