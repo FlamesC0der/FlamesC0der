@@ -23,3 +23,5 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_AI_CODING: False
+          SHOW_AI_CODE_TIME: False
